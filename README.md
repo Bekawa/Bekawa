@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Bereket [junior web-Application developer]</h3>
+<h3 align="center">Hi 👋, I'm Bereket (junior web-Application developer)</h3>
 
 <!--<img   align="right" alt="coding" width="300" src="https://pbs.twimg.com/media/Fr_Hc9iWcAAieU7?format=png&name=small"   >
 -->
